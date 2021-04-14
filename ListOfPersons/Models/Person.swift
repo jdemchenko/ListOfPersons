@@ -24,7 +24,7 @@ struct PersonInformation {
 }
 
 extension Person {
-    static func getPesonList() -> [Person] {
+    static func getPersonList() -> [Person] {
         var person: [Person] = []
         let firstNames = DataManager.init().firstNames.shuffled()
         let lastNames = DataManager.init().lastNames.shuffled()

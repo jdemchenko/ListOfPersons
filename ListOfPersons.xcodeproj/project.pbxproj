@@ -17,6 +17,7 @@
 		FA0E92222626FDA000C71E2C /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0E92212626FDA000C71E2C /* DataManager.swift */; };
 		FA595A7226271B9C00BDC82C /* PersonDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA595A7126271B9C00BDC82C /* PersonDetailsViewController.swift */; };
 		FA9C60FA262726E100326E4B /* PersonsListOfDetailsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9C60F9262726E100326E4B /* PersonsListOfDetailsTableViewController.swift */; };
+		FA9C610F26273F0C00326E4B /* PersonTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9C610E26273F0C00326E4B /* PersonTabBarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		FA0E92212626FDA000C71E2C /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		FA595A7126271B9C00BDC82C /* PersonDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonDetailsViewController.swift; sourceTree = "<group>"; };
 		FA9C60F9262726E100326E4B /* PersonsListOfDetailsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsListOfDetailsTableViewController.swift; sourceTree = "<group>"; };
+		FA9C610E26273F0C00326E4B /* PersonTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTabBarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				FA9C60F9262726E100326E4B /* PersonsListOfDetailsTableViewController.swift */,
 				FA0E921B2626F58400C71E2C /* PesonsListViewController.swift */,
 				FA595A7126271B9C00BDC82C /* PersonDetailsViewController.swift */,
+				FA9C610E26273F0C00326E4B /* PersonTabBarViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				FA0E92062626F4A400C71E2C /* AppDelegate.swift in Sources */,
 				FA0E92222626FDA000C71E2C /* DataManager.swift in Sources */,
+				FA9C610F26273F0C00326E4B /* PersonTabBarViewController.swift in Sources */,
 				FA0E92082626F4A400C71E2C /* SceneDelegate.swift in Sources */,
 				FA0E921F2626FB9400C71E2C /* Person.swift in Sources */,
 				FA0E921C2626F58400C71E2C /* PesonsListViewController.swift in Sources */,
