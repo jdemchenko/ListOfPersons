@@ -14,7 +14,14 @@ class DataManager {
         "Patrick",
         "John",
         "Alex",
-        "Maria"
+        "Maria",
+        "Kristina",
+        "Pegaha",
+        "Polina",
+        "Julian",
+        "Max",
+        "Clark",
+        "Mihail"
     ]
     
     
@@ -23,7 +30,14 @@ class DataManager {
         "Hristov",
         "Mihalkovich",
         "Drew",
-        "Picke"
+        "Picke",
+        "Smith",
+        "Kent",
+        "Pucilo",
+        "Francis",
+        "Gold",
+        "Proshuto",
+        "Afonoilis"
     ]
     
     let emails = [
@@ -31,7 +45,14 @@ class DataManager {
         "jion@me.com",
         "sff@gmail.com",
         "lol@gmail.com",
-        "pupka@me.com"
+        "pupka@me.com",
+        "sdhh@me.com",
+        "23hhsh@mail.ru",
+        "sdjhsdk@yandex.ru",
+        "sdsds@yandex.ru",
+        "lkjk@gmail.com",
+        "elit@me.com",
+        "luna@icloud.com"
     ]
     
     let phoneNumbers = [
@@ -39,7 +60,14 @@ class DataManager {
         1232232,
         2313332,
         9593412,
-        2423663
+        2423663,
+        3242342,
+        7777777,
+        6627721,
+        7654321,
+        1010120,
+        1992999,
+        2322222
     ]
     
 }

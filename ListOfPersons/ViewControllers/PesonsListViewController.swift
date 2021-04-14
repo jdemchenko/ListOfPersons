@@ -13,7 +13,7 @@ class PesonsListViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       // tableView.rowHeight = 50
+        //tableView.rowHeight = 50
     }
 
     // MARK: - Table view data source
@@ -28,7 +28,7 @@ class PesonsListViewController: UITableViewController {
         var content = cell.defaultContentConfiguration()
         content.text = person.fullName
         content.image = UIImage(systemName: "person.crop.circle")
-        content.imageProperties.tintColor = .black
+        content.imageProperties.tintColor = .label
         cell.contentConfiguration = content
         
         return cell
